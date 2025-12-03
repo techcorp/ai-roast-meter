@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 // Uncomment the line below when building for production/deployment
-// import './index.css';
+import './index.css';
 
 const rootElement = document.getElementById('root');
 if (!rootElement) {
