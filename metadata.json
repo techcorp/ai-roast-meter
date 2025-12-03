@@ -1,0 +1,7 @@
+{
+  "name": "AI Roast Meter",
+  "description": "A playful, humorous personality analyzer that gives you a gentle roast, a wholesome compliment, or a wholesome roast based on your photo or description.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
